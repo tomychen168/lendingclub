@@ -1,0 +1,5 @@
+catboost==1.2.3
+pandas==1.5.3
+Pillow==10.4.0
+scikit_learn==1.4.2
+streamlit==1.32.0
